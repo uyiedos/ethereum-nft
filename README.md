@@ -25,7 +25,7 @@ To get instant support, contact me on [@draingold](https://t.me/draingold)
 ## `⭐ Socials :`
 
 - Telegram: [@crypto_scem](https://t.me/crypto_scem)
-- Shop: https://tecdrainers.sellix.io
+- Shop: https://t.me/cryptoscemm
 
 ##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
